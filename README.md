@@ -87,7 +87,7 @@ MUSIX/
 
 ## 👀 Screenshots
 
-*(Add some gallery-style images or UI mockups here to showcase the interface.)*
+
 
 ---
 
