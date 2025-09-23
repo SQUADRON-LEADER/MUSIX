@@ -131,8 +131,18 @@ Full license details are available in the LICENSE file.
 * Live Demo: [https://musix-theta.vercel.app](https://musix-theta.vercel.app)
 
 ---
+🔍 Acknowledgments & Inspirations
 
-## 🔍 Acknowledgments & Inspirations
+A big thank you to the following inspirations and resources:
 
+🎶 Spotify & Apple Music – For inspiring the clean, user‑friendly design.
+
+🎨 Freepik & Flaticon – For providing free icons and assets.
+
+🖌️ Open Source Community – For countless libraries and tools that made this project possible.
+
+👩‍💻 Contributors & Testers – For valuable feedback and bug reports that helped polish MUSIX.
+
+If you have contributed in any way (code, bug report, feature request), your name will be added here with gratitude!
 * Inspired by minimal music players like [Plug.dj](https://plug.dj), \[Spotify Web Player] etc.
 * Icons / assets from free resources (if you use any) — please list attribution here.
