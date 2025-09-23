@@ -106,7 +106,21 @@ Please fork the repo, create a branch for your feature/fix, and open a PR. Use m
 
 ## 📄 License
 
-This project is MIT‑licensed. See the [LICENSE](LICENSE) file for details.
+📄 License
+
+This project is licensed under the MIT License, which means you are free to use, modify, and distribute this project with proper attribution.
+
+Summary:
+
+✅ Commercial Use Allowed – You can use it in your own projects.
+
+✅ Modification Allowed – Feel free to tweak and improve.
+
+✅ Distribution Allowed – Share it with others.
+
+✅ Private Use Allowed – Use it for personal purposes too.
+
+Full license details are available in the LICENSE file.
 
 ---
 
