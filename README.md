@@ -107,7 +107,7 @@ Please fork the repo, create a branch for your feature/fix, and open a PR. Use m
 
 ## 📄 License
 
-📄 License
+
 
 This project is licensed under the MIT License, which means you are free to use, modify, and distribute this project with proper attribution.
 
