@@ -3,6 +3,8 @@
 [![Live Site](https://img.shields.io/website?down_message=offline\&up_message=online\&url=https%3A%2F%2Fmusix-theta.vercel.app)](https://musix-theta.vercel.app)
 
 A simple, elegant web‑based music player. Stream your favorite tunes in a sleek, intuitive interface.
+<img width="683" height="410" alt="image" src="https://github.com/user-attachments/assets/c5b3c6f9-9ab6-437e-882b-8223073b231b" />
+
 
 ---
 
