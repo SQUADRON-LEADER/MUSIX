@@ -87,6 +87,7 @@ MUSIX/
 
 ## 👀 Screenshots
 
+<img width="1919" height="857" alt="Screenshot 2025-09-25 222713" src="https://github.com/user-attachments/assets/fbf92df9-9983-4a14-9e02-62951a362ae7" />
 
 
 ---
